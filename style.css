@@ -1,0 +1,24 @@
+#final-thoughts {
+  color: green;
+}
+
+#nuevo-id {
+  color: blue;
+}
+
+
+.final-section {
+  width: 200px;
+  height: 100px;
+}
+
+.final-card {
+  text-align: center;
+  padding-top: 15px;
+  margin-left: 20px;
+}
+
+.blue-container {
+  background-color: aqua;
+  border: solid 2px blueviolet;
+}
